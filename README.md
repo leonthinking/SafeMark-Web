@@ -1,5 +1,7 @@
 # SafeMark Web
 
+[在线使用 SafeMark](https://safemark-web.vercel.app)
+
 浏览器本地图片水印工具。选择图片、调整文字水印、下载 PNG/JPEG，全过程在浏览器中完成。
 
 本项目是独立的网页版，不修改 [SafeMark iOS 开源项目](https://github.com/leonthinking/SafeMark-OpenSource)。代码、图标和内置示例插画均按 MIT 许可证提供。
