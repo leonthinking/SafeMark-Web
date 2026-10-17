@@ -1,0 +1,9 @@
+node_modules
+tests
+test-results
+playwright-report
+.git
+README.md
+package-lock.json
+playwright.config.js
+scripts
