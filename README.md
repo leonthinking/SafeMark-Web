@@ -4,7 +4,7 @@
 
 浏览器本地图片水印工具。选择图片、调整文字水印、下载 PNG/JPEG，全过程在浏览器中完成。
 
-本项目是独立的网页版，不修改 [SafeMark iOS 开源项目](https://github.com/leonthinking/SafeMark-OpenSource)。代码、图标和内置示例插画均按 MIT 许可证提供。
+本项目是独立的网页版，不修改 [SafeMark iOS 开源项目](https://github.com/leonthinking/SafeMark-OpenSource)。代码、图标和内置示例插画均按 MIT 许可证提供。网页图标沿用 iOS 的默认 App 图标（`SafeMark Icon 2.jpg`），仅缩放并转换为 PNG。
 
 ## 功能
 
